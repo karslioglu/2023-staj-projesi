@@ -9,8 +9,9 @@ Projeden beklenen kazanımlar
 ...
 
 ## Proje Paydaşları
-Aslı Vezir
-Mehmet Emre SAYGI
+* Aslı Vezir
+* Mehmet Emre SAYGI
+* Yilmaz Can Duran
 
 ## Proje Açıklaması
 ...
