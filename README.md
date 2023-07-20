@@ -14,7 +14,7 @@ Projeden beklenen kazanımlar
 * Yilmaz Can Duran
 
 ## Proje Açıklaması
-...
+Buraya detayli bir aciklama yapilmasi gerekiyor
 
 ## Projede Kullanılan Araçlar
 ...
