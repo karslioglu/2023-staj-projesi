@@ -14,8 +14,7 @@ Projeden beklenen kazanımlar
 * Yilmaz Can Duran
 
 ## Proje Açıklaması
-Buraya detayli bir aciklama yapilmasi gerekiyor
-
+100 dönümlük tarlası olan çiftçimizin damlama sulama sistemine kurulacak motoru durdurma sistemi 
 ## Projede Kullanılan Araçlar
 * Documantation
     * [Visual Studio Code](https://code.visualstudio.com/) 
