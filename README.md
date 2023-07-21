@@ -15,6 +15,7 @@ Projeden beklenen kazanımlar
 
 ## Proje Açıklaması
 100 dönümlük tarlası olan çiftçimizin damlama sulama sistemine kurulacak motoru durdurma sistemi 
+
 ## Projede Kullanılan Araçlar
 * Documantation
     * [Visual Studio Code](https://code.visualstudio.com/) 

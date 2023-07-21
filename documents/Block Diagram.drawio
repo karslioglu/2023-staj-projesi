@@ -1,0 +1,93 @@
+<mxfile host="Electron" modified="2023-07-21T14:42:02.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="dWHUEQgT4ZPqsluVNben" version="21.6.1" type="device">
+  <diagram name="Page-1" id="-pARtK4cIDKYYohNa9Le">
+    <mxGraphModel dx="1418" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="POSMIAszmtrge5b3vb-1-22" value="m" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1090" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="179" width="700" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-2" value="MCU&lt;br&gt;(STM32F10R8T6)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="445" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-3" value="LCD&lt;br&gt;(&amp;nbsp;I2C OLED)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="672" y="468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-4" value="GSM&lt;br&gt;(SIM800L)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="672" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-5" value="ADC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-6" value="RELAY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="445" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-7" value="POWER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="270" y="374" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-8" value="USB&lt;br&gt;(VCP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="155" y="380" width="55" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-9" value="ACTIVE BTN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-10" value="DEACTIVE BTN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="POSMIAszmtrge5b3vb-1-12" target="POSMIAszmtrge5b3vb-1-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="637" y="290" />
+              <mxPoint x="505" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-12" value="LED&lt;br&gt;DEACT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="612" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="POSMIAszmtrge5b3vb-1-13" target="POSMIAszmtrge5b3vb-1-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="280" />
+              <mxPoint x="475" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-13" value="LED&lt;br&gt;DEACT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="552" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="POSMIAszmtrge5b3vb-1-14" target="POSMIAszmtrge5b3vb-1-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="697" y="330" />
+              <mxPoint x="535" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-14" value="LED&lt;br&gt;ERR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="672" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="POSMIAszmtrge5b3vb-1-15" target="POSMIAszmtrge5b3vb-1-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="270" />
+              <mxPoint x="324" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-15" value="LED&lt;br&gt;PWR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-23" value="&lt;h1&gt;2023 Staj Projesi Blok Diyagram&lt;/h1&gt;&lt;p&gt;Şema çizmeden önce blok diyagram üzerinde modül ve bileşenlere karar verildi.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="480" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="POSMIAszmtrge5b3vb-1-24" value="&lt;h1&gt;EXP&lt;/h1&gt;&lt;p&gt;İleride farklı ihtiyaç nedeni ile lazım olabilecek özellikler için genel amaçlı dijital haberleşme portları, GPIO pinleri ve power pinleri de eklenmesi mantıklı olacaktır.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;1x UART&lt;/li&gt;&lt;li&gt;1x I2C&lt;/li&gt;&lt;li&gt;1x SPI&lt;/li&gt;&lt;li&gt;2x GPIO&lt;/li&gt;&lt;li&gt;1x 3V3&lt;/li&gt;&lt;li&gt;1x 5V&lt;/li&gt;&lt;li&gt;3x GND&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="220" width="250" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
