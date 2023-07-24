@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "2023Staj")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/2023Staj.pretty")(options "")(descr ""))
+)

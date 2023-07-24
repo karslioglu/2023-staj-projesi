@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2023Staj")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/2023Staj.kicad_sym")(options "")(descr ""))
+)
