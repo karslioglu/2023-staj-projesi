@@ -166,6 +166,14 @@
     (property "Sheetfile" "gsm.kicad_sch" (at 34.29 129.4896 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
+    (pin "TXD" output (at 71.12 107.95 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 8083353e-1f8d-434c-8877-80122d113748)
+    )
+    (pin "RXD" input (at 71.12 105.41 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid b3f67c80-c86a-4c74-b4b3-edfc36a7c17a)
+    )
     (instances
       (project "2023-staj-projesi"
         (path "/069db7ad-35cd-4aa8-8111-e026f632a4df" (page "4"))
