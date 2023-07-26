@@ -7,4 +7,9 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "VCC" (shape bidirectional) (at 44.45 49.53 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 4a65f686-6943-4964-82c6-bc67d4807c07)
+  )
 )
