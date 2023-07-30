@@ -9,15 +9,25 @@ Projeden beklenen kazanımlar
 ...
 
 ## Proje Paydaşları
-...
+* Aslı Vezir
+* Mehmet Emre SAYGI
+* Yilmaz Can Duran
 
 ## Proje Açıklaması
-...
+100 dönümlük tarlası olan çiftçimizin damlama sulama sistemine kurulacak motoru durdurma sistemi 
 
 ## Projede Kullanılan Araçlar
-...
-
-...
-...
+* Documantation
+    * [Visual Studio Code](https://code.visualstudio.com/) 
+	* [Markdown](https://www.markdownguide.org/getting-started/)
+	* [MkDocs](https://www.mkdocs.org/)
+* Diagrams
+	* [Draw.io](https://www.drawio.com/)
+* Design
+	* [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html)
+	* [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+	* [KiCAD](https://www.kicad.org/)
+* Version Control/Publish
+	* [Github](https://github.com/)
 
 
